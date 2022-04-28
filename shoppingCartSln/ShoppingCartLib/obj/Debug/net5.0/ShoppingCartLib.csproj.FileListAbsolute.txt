@@ -1,0 +1,12 @@
+C:\Users\Shaun Mkwenkwe\Source\Repos\Dark-Bag\shoppingCartByShaun\shoppingCartSln\ShoppingCartLib\bin\Debug\net5.0\ShoppingCartLib.deps.json
+C:\Users\Shaun Mkwenkwe\Source\Repos\Dark-Bag\shoppingCartByShaun\shoppingCartSln\ShoppingCartLib\bin\Debug\net5.0\ShoppingCartLib.dll
+C:\Users\Shaun Mkwenkwe\Source\Repos\Dark-Bag\shoppingCartByShaun\shoppingCartSln\ShoppingCartLib\bin\Debug\net5.0\ShoppingCartLib.pdb
+C:\Users\Shaun Mkwenkwe\Source\Repos\Dark-Bag\shoppingCartByShaun\shoppingCartSln\ShoppingCartLib\obj\Debug\net5.0\ShoppingCartLib.csproj.AssemblyReference.cache
+C:\Users\Shaun Mkwenkwe\Source\Repos\Dark-Bag\shoppingCartByShaun\shoppingCartSln\ShoppingCartLib\obj\Debug\net5.0\ShoppingCartLib.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Shaun Mkwenkwe\Source\Repos\Dark-Bag\shoppingCartByShaun\shoppingCartSln\ShoppingCartLib\obj\Debug\net5.0\ShoppingCartLib.AssemblyInfoInputs.cache
+C:\Users\Shaun Mkwenkwe\Source\Repos\Dark-Bag\shoppingCartByShaun\shoppingCartSln\ShoppingCartLib\obj\Debug\net5.0\ShoppingCartLib.AssemblyInfo.cs
+C:\Users\Shaun Mkwenkwe\Source\Repos\Dark-Bag\shoppingCartByShaun\shoppingCartSln\ShoppingCartLib\obj\Debug\net5.0\ShoppingCartLib.csproj.CoreCompileInputs.cache
+C:\Users\Shaun Mkwenkwe\Source\Repos\Dark-Bag\shoppingCartByShaun\shoppingCartSln\ShoppingCartLib\obj\Debug\net5.0\ShoppingCartLib.dll
+C:\Users\Shaun Mkwenkwe\Source\Repos\Dark-Bag\shoppingCartByShaun\shoppingCartSln\ShoppingCartLib\obj\Debug\net5.0\refint\ShoppingCartLib.dll
+C:\Users\Shaun Mkwenkwe\Source\Repos\Dark-Bag\shoppingCartByShaun\shoppingCartSln\ShoppingCartLib\obj\Debug\net5.0\ShoppingCartLib.pdb
+C:\Users\Shaun Mkwenkwe\Source\Repos\Dark-Bag\shoppingCartByShaun\shoppingCartSln\ShoppingCartLib\obj\Debug\net5.0\ref\ShoppingCartLib.dll
