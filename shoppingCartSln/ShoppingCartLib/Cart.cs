@@ -6,48 +6,55 @@ using System.Threading.Tasks;
 
 namespace ShoppingCartLib
 {
-    public class Cart: ShoppingCart
+    public class Cart
     {
-        private List<ShoppingCartItem> Cartitems;
+       
         double sumT;
         double sumTWithVAT;
 
-        public Cart()
-        {
-            Cartitems = new List<ShoppingCartItem>();    
-        }
 
-        public void AddToTheCart(string itemname, double itemprice)
+        private List<ShoppingCartItem> Cartitems = new List<ShoppingCartItem>();    
+        
+
+        public void AddToTheCart(ShoppingCartItem itemmm)
         {
-            ShoppingCartItem item = new ShoppingCartItem(itemname, itemprice);
-            this.Cartitems.Add(item);
+          
+            this.Cartitems.Add(itemmm);
            
         }
 
-        public IEnumerable<string> GetCartItemNames()
+        public List<ShoppingCartItem> GetCartItems()
         {
-            foreach (var item in this.Cartitems)
-            {
-                yield return item.itemName;
-            }
-        }
-
-        public double subTotal(double itemprice)
-        {
+            return this.Cartitems;  
             
-            ShoppingCartItem total = new ShoppingCartItem(itemprice);
-
-            sumT += total.itemPrice;
-            return sumT;
         }
 
-        public double subTotalWithVAT(double itemprice)
+        public double subTotal()
         {
 
-            ShoppingCartItem totalVAT = new ShoppingCartItem(itemprice);
+            foreach (ShoppingCartItem item in Cartitems)
+            {
+                sumT += item.itemPrice;
+            }
+            return Math.Round(sumT, 2);
+        }
 
-            sumTWithVAT = totalVAT.itemPrice * 1.15;
-            return sumTWithVAT;
+        public double subTotalWithVAT()
+        {
+
+            foreach (ShoppingCartItem item in Cartitems)
+            {
+                sumTWithVAT = sumT * 1.15;
+            }
+            return Math.Round(sumTWithVAT, 2);
+        }
+
+        public void Clear()
+        {
+            this.Cartitems.Clear();
+            this.sumT= 0;
+            this.sumTWithVAT= 0;
+
         }
 
 

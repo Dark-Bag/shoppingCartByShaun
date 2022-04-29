@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace ShoppingCartLib
 {
-     class ShoppingCartItem
+    public class ShoppingCartItem
     {
         public string itemName ;
         public double itemPrice;
@@ -27,6 +27,17 @@ namespace ShoppingCartLib
         {
             itemName = itemname;
             itemPrice = itemprice;
+        }
+
+        public string ItemName
+        {
+            get { return itemName; }    
+            set { itemName = value; }
+        }
+        public double ItemPrice
+        {
+            get { return itemPrice; }   
+            set { itemPrice = value; }  
         }
     }
 }

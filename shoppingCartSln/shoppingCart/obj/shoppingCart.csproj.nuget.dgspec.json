@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Shaun Mkwenkwe\\Source\\Repos\\Dark-Bag\\shoppingCartByShaun\\shoppingCartSln\\shoppingCart\\shoppingCart.csproj": {}
+    "C:\\Users\\Shaun Mkwenkwe\\source\\repos\\Dark-Bag\\shoppingCartByShaun\\shoppingCartSln\\shoppingCart\\shoppingCart.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Shaun Mkwenkwe\\Source\\Repos\\Dark-Bag\\shoppingCartByShaun\\shoppingCartSln\\ShoppingCartLib\\ShoppingCartLib.csproj": {
+    "C:\\Users\\Shaun Mkwenkwe\\source\\repos\\Dark-Bag\\shoppingCartByShaun\\shoppingCartSln\\ShoppingCartLib\\ShoppingCartLib.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Shaun Mkwenkwe\\Source\\Repos\\Dark-Bag\\shoppingCartByShaun\\shoppingCartSln\\ShoppingCartLib\\ShoppingCartLib.csproj",
+        "projectUniqueName": "C:\\Users\\Shaun Mkwenkwe\\source\\repos\\Dark-Bag\\shoppingCartByShaun\\shoppingCartSln\\ShoppingCartLib\\ShoppingCartLib.csproj",
         "projectName": "ShoppingCartLib",
-        "projectPath": "C:\\Users\\Shaun Mkwenkwe\\Source\\Repos\\Dark-Bag\\shoppingCartByShaun\\shoppingCartSln\\ShoppingCartLib\\ShoppingCartLib.csproj",
+        "projectPath": "C:\\Users\\Shaun Mkwenkwe\\source\\repos\\Dark-Bag\\shoppingCartByShaun\\shoppingCartSln\\ShoppingCartLib\\ShoppingCartLib.csproj",
         "packagesPath": "C:\\Users\\Shaun Mkwenkwe\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Shaun Mkwenkwe\\Source\\Repos\\Dark-Bag\\shoppingCartByShaun\\shoppingCartSln\\ShoppingCartLib\\obj\\",
+        "outputPath": "C:\\Users\\Shaun Mkwenkwe\\source\\repos\\Dark-Bag\\shoppingCartByShaun\\shoppingCartSln\\ShoppingCartLib\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -62,14 +62,14 @@
         }
       }
     },
-    "C:\\Users\\Shaun Mkwenkwe\\Source\\Repos\\Dark-Bag\\shoppingCartByShaun\\shoppingCartSln\\shoppingCart\\shoppingCart.csproj": {
+    "C:\\Users\\Shaun Mkwenkwe\\source\\repos\\Dark-Bag\\shoppingCartByShaun\\shoppingCartSln\\shoppingCart\\shoppingCart.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Shaun Mkwenkwe\\Source\\Repos\\Dark-Bag\\shoppingCartByShaun\\shoppingCartSln\\shoppingCart\\shoppingCart.csproj",
+        "projectUniqueName": "C:\\Users\\Shaun Mkwenkwe\\source\\repos\\Dark-Bag\\shoppingCartByShaun\\shoppingCartSln\\shoppingCart\\shoppingCart.csproj",
         "projectName": "shoppingCart",
-        "projectPath": "C:\\Users\\Shaun Mkwenkwe\\Source\\Repos\\Dark-Bag\\shoppingCartByShaun\\shoppingCartSln\\shoppingCart\\shoppingCart.csproj",
+        "projectPath": "C:\\Users\\Shaun Mkwenkwe\\source\\repos\\Dark-Bag\\shoppingCartByShaun\\shoppingCartSln\\shoppingCart\\shoppingCart.csproj",
         "packagesPath": "C:\\Users\\Shaun Mkwenkwe\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Shaun Mkwenkwe\\Source\\Repos\\Dark-Bag\\shoppingCartByShaun\\shoppingCartSln\\shoppingCart\\obj\\",
+        "outputPath": "C:\\Users\\Shaun Mkwenkwe\\source\\repos\\Dark-Bag\\shoppingCartByShaun\\shoppingCartSln\\shoppingCart\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -90,8 +90,8 @@
           "net5.0": {
             "targetAlias": "net5.0",
             "projectReferences": {
-              "C:\\Users\\Shaun Mkwenkwe\\Source\\Repos\\Dark-Bag\\shoppingCartByShaun\\shoppingCartSln\\ShoppingCartLib\\ShoppingCartLib.csproj": {
-                "projectPath": "C:\\Users\\Shaun Mkwenkwe\\Source\\Repos\\Dark-Bag\\shoppingCartByShaun\\shoppingCartSln\\ShoppingCartLib\\ShoppingCartLib.csproj"
+              "C:\\Users\\Shaun Mkwenkwe\\source\\repos\\Dark-Bag\\shoppingCartByShaun\\shoppingCartSln\\ShoppingCartLib\\ShoppingCartLib.csproj": {
+                "projectPath": "C:\\Users\\Shaun Mkwenkwe\\source\\repos\\Dark-Bag\\shoppingCartByShaun\\shoppingCartSln\\ShoppingCartLib\\ShoppingCartLib.csproj"
               }
             }
           }
