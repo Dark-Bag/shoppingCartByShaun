@@ -10,9 +10,11 @@ namespace shoppingCart
             Cart test = new Cart();
 
             bool addingItems = true;
-
+            Console.WriteLine("WELCOME TO THE BAGGED GAMING SHOP\n");
             while (addingItems)
             {
+               Console.WriteLine("ACTIONS: ");
+
                 Console.WriteLine("Type '+' to add an item.");
                 Console.WriteLine("Type 'display' to display the items.");
                 Console.WriteLine("Type 'clear' to clear the cart list.");
@@ -40,16 +42,16 @@ namespace shoppingCart
                     Console.WriteLine("Sub Total:........." + 'R' + test.subTotal());
                     Console.WriteLine("Sub Total (VAT incl.):........." + 'R' + test.subTotalWithVAT());
 
-                    Console.WriteLine("Press enter to continue");
+                    Console.WriteLine("Press Enter to continue");
                     Console.ReadLine();
-                 //   break;
+                 
 
                 }
 
                 else if (action == "clear")
                 {
                     test.Clear();
-                    //break;
+                        
 
                 }
 
